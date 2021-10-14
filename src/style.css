@@ -1,13 +1,24 @@
 body {
+	--my-yellow: #f0f3bec5;
+	--my-blue: #02808f;
+	--my-dark-blue: #04668d;
+	background: linear-gradient(var(--my-yellow), var(--my-dark-blue));
 	margin: 0;
 	padding: 0;
 	font-family: MonsterratRegular, sans-serif;
+}
+
+body::-webkit-scrollbar {
+	display: none;
 }
 
 h1 {
 	width: 200px;
 	margin: auto;
 	text-align: center;
+}
+section a {
+	color: black;
 }
 
 header p {
@@ -23,15 +34,11 @@ h2 {
 	text-align: center;
 }
 
-.test-tasks-section .section-item {
-	background-color: gray;
-}
-
 .section-item {
 	width: 300px;
-	/* max-width: 400px; */
 	margin: 10px;
 	padding: 20px;
+	border-radius: 10px;
 }
 
 section .container {
@@ -42,6 +49,39 @@ section .container {
 
 section .link-on-folder {
 	text-align: end;
+}
+
+/*test tasks section*/
+
+.test-tasks-section .section-item {
+	background: var(--my-blue);
+	color: #c4d3c3;
+}
+.test-tasks-section .section-item a,
+.test-tasks-section .section-item h3 {
+	color: var(--my-yellow);
+}
+
+/* pet projects section */
+
+.pet-projects-section .section-item {
+	background: #4b919c;
+	color: #064d69;
+}
+.pet-projects-section .section-item h3,
+.pet-projects-section .section-item a {
+	color: var(--my-dark-blue);
+}
+
+/* landing pages section */
+
+.landing-pages-section .section-item {
+	background: var(--my-yellow);
+	color: var(--my-dark-blue);
+}
+.landing-pages-section .section-item h3,
+.landing-pages-section .section-item a {
+	color: var(--my-blue);
 }
 
 @font-face {
