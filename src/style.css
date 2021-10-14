@@ -1,0 +1,54 @@
+body {
+	margin: 0;
+	padding: 0;
+	font-family: MonsterratRegular, sans-serif;
+}
+
+h1 {
+	width: 200px;
+	margin: auto;
+	text-align: center;
+}
+
+header p {
+	width: 270px;
+	margin: auto;
+	text-align: center;
+}
+
+h2 {
+	width: 200px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+.test-tasks-section .section-item {
+	background-color: gray;
+}
+
+.section-item {
+	width: 300px;
+	/* max-width: 400px; */
+	margin: 10px;
+	padding: 20px;
+}
+
+section .container {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-evenly;
+}
+
+section .link-on-folder {
+	text-align: end;
+}
+
+@font-face {
+	/* название шрифта(чтобы не запутаться лучше указать название папки со шрифтом) */
+	font-family: 'MonsterratRegular';
+	/* адрес шрифта и тип */
+	src: url('./fonts/Montserrat-Regular.ttf') format('truetype');
+	font-style: normal;
+	font-weight: normal;
+}
