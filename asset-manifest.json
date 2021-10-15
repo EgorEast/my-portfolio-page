@@ -1,23 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.062bc9bf.chunk.css",
-    "main.js": "/static/js/main.ab3a0c4a.chunk.js",
-    "main.js.map": "/static/js/main.ab3a0c4a.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.31ee9be5.js",
-    "runtime-main.js.map": "/static/js/runtime-main.31ee9be5.js.map",
-    "static/js/2.93026605.chunk.js": "/static/js/2.93026605.chunk.js",
-    "static/js/2.93026605.chunk.js.map": "/static/js/2.93026605.chunk.js.map",
-    "static/js/3.a6e4d959.chunk.js": "/static/js/3.a6e4d959.chunk.js",
-    "static/js/3.a6e4d959.chunk.js.map": "/static/js/3.a6e4d959.chunk.js.map",
+    "main.css": "/static/css/main.1c8344b6.chunk.css",
+    "main.js": "/static/js/main.9da2f09c.chunk.js",
+    "main.js.map": "/static/js/main.9da2f09c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c93add27.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c93add27.js.map",
+    "static/js/2.fb23f641.chunk.js": "/static/js/2.fb23f641.chunk.js",
+    "static/js/2.fb23f641.chunk.js.map": "/static/js/2.fb23f641.chunk.js.map",
+    "static/js/3.d45b8b9a.chunk.js": "/static/js/3.d45b8b9a.chunk.js",
+    "static/js/3.d45b8b9a.chunk.js.map": "/static/js/3.d45b8b9a.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.062bc9bf.chunk.css.map": "/static/css/main.062bc9bf.chunk.css.map",
-    "static/js/2.93026605.chunk.js.LICENSE.txt": "/static/js/2.93026605.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/static/media/Montserrat-Regular.3cd78665.ttf"
+    "static/css/main.1c8344b6.chunk.css.map": "/static/css/main.1c8344b6.chunk.css.map",
+    "static/js/2.fb23f641.chunk.js.LICENSE.txt": "/static/js/2.fb23f641.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/Montserrat-Regular.3cd78665.ttf",
+    "static/media/App.scss": "/static/media/Roboto-Regular.03523cf5.ttf",
+    "static/media/sidebar.scss": "/static/media/open-sidebar-button.8aaf7e24.svg",
+    "static/media/coupon-content.scss": "/static/media/wine.4cd367ac.png",
+    "static/media/coupon.scss": "/static/media/coupon-active-frame.bbf53d3e.svg",
+    "static/media/header.scss": "/static/media/search.0011139d.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.31ee9be5.js",
-    "static/js/2.93026605.chunk.js",
-    "static/css/main.062bc9bf.chunk.css",
-    "static/js/main.ab3a0c4a.chunk.js"
+    "static/js/runtime-main.c93add27.js",
+    "static/js/2.fb23f641.chunk.js",
+    "static/css/main.1c8344b6.chunk.css",
+    "static/js/main.9da2f09c.chunk.js"
   ]
 }
